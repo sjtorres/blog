@@ -17,7 +17,7 @@ title: Blog Sandro Torres
 email: sj.torres@live.com
 description: "Este é um blog criado para dica e truques referentes a área de TI. Criado com a ferramenta Jekyll."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sandrotorres.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sandrojt
 github_username:  sjtorres
 
